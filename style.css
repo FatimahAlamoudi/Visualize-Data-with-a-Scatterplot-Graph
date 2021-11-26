@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+svg{
+    background-color: black;
+    color: white;
+}
+
+
+#tooltip{
+    visibility: hidden;
+    width: auto;
+    height: auto;
+}
+
+#title{
+    fill: rgb(221, 221, 221);
+    text-transform: uppercase;
+}
+
